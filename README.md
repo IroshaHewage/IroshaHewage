@@ -4,6 +4,7 @@
 
 - 🌍 I'm based in Sri lanka
 - 🧠 I'm learning GoLang with microservices
+- 🧪 Experimenting with **containerization and Kubernetes**
 
 ### Skills
 
