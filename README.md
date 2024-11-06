@@ -1,11 +1,9 @@
-Hi 👋 My name is Irosha Hewage
-==============================
+# Hi 👋 My name is Irosha Hewage
 
-Full Stack Developer
---------------------
+## Full Stack Developer
 
-* 🌍  I'm based in Sri lanka
-* 🧠  I'm learning GoLang
+- 🌍 I'm based in Sri lanka
+- 🧠 I'm learning GoLang with microservices
 
 ### Skills
 
