@@ -1,4 +1,8 @@
-# Hi 👋 My name is Irosha Hewage
+# 👋 Hello, I'm Irosha Hewage! 🇱🇰
+
+**A passionate developer from Sri Lanka 🌴, currently diving into GoLang and microservices architecture.**
+
+I'm working on building a robust portfolio of projects here on GitHub, where I'm focusing on creating scalable, efficient applications using modern development practices.
 
 ## Full Stack Developer
 
