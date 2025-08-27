@@ -2,7 +2,7 @@
 
 **A passionate developer from Sri Lanka 🌴, currently diving into GoLang and microservices architecture.**
 
-I'm working on building a robust portfolio of projects here on GitHub, where I'm focusing on creating scalable, efficient applications using modern development practices.
+I am studying Software Engineering at [Cardiff Metropolitan University](www.cardiffmet.ac.uk/), where I am building a robust portfolio of projects on GitHub. My focus is on creating scalable and efficient applications using modern development practices, with the goal of turning strong academic foundations into practical, real-world solutions.
 
 ## Full Stack Developer
 
