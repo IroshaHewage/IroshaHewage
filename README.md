@@ -18,5 +18,5 @@ I am studying Software Engineering at [Cardiff Metropolitan University](www.card
 
 ## 🌐 Connect With Me
 
-- LinkedIn: [IroshaHewage](www.linkedin.com/in/irosha-hewage)
+- LinkedIn: [IroshaHewage](https://www.linkedin.com/in/irosha-hewage/)
 - X: [@iroshahewage](https://x.com/iroshahewage)
